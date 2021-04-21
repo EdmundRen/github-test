@@ -1,6 +1,10 @@
 # Compiled class file
 *.class
 
+## 2021/4/21 add 也要过滤idea和eclipse
+.project
+.idea
+
 # Log file
 *.log
 
